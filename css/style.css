@@ -10,7 +10,7 @@
 }
 
 #plano_fundo {
-    background-image: linear-gradient(to right, rgb(0, 0, 0, 1), rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0)), url(img/rick-and-morty-capa);
+    background-image: linear-gradient(to right, rgb(0, 0, 0, 1), rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0));
     background-size: cover;
 }
 
